@@ -1,0 +1,8 @@
+numpy
+torch
+dataclasses  # backward compatibility with Python 3.6
+matplotlib
+celluloid
+tqdm
+tensorflow
+jupyter
